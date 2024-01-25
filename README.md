@@ -31,7 +31,7 @@ sudo wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh |
 nvm use 20
 ```
 
-### Install NodeJS OK:
+### Install NodeJS Done! :
 ### Linux Run:
 
 web:
